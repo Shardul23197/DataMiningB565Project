@@ -12,3 +12,5 @@ title_basics.tsv: https://drive.google.com/file/d/1tXKSBtKgQ0V-C6njnriE1VwlojeK3
 title_ratings.tsv: https://drive.google.com/file/d/1ez8nYng17WZyulPan-rkruYUF8XjzHIy/view?usp=sharing
 
 final_data_for_algorithms.csv: https://drive.google.com/file/d/1qep0wEVFcqX-fNeHr8m4PXJ-vIhqUXjk/view?usp=sharing
+
+title_crew.tsv: https://drive.google.com/file/d/1zW7wg6zogPZ6i_7hfHQgjaSqwDFtL03t/view?usp=sharing
